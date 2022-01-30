@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154187398655",
+    "project_id": "proacedemy-news-app",
+    "storage_bucket": "proacedemy-news-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154187398655:android:35a68f8cfa153e22ab7bca",
+        "android_client_info": {
+          "package_name": "com.example.reading_application_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154187398655-q03tg453r4qvg9epdj0iou4ove0c2fg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN795YuZGMcaxViv9EcTluuRABPBNQcq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154187398655-q03tg453r4qvg9epdj0iou4ove0c2fg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
